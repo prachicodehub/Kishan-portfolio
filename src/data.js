@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Kishan Kumar",
+  name: "Kishan Kr.",
   role: "Full Stack · AI/ML Engineer",
   company: "Guruvai Sciences",
   tagline:
@@ -9,7 +9,7 @@ export const profile = {
   location: "New Delhi, India",
   github: "https://github.com/kishan2613",
   linkedin: "https://www.linkedin.com/in/kishan-kumar-00822428b",
-  leetcode: "https://leetcode.com/u/kishan2613/",
+  leetcode: "https://leetcode.com/u/kishan_5654/",
 };
 
 export const highlights = [
@@ -114,6 +114,7 @@ export const projects = [
     id: "dronaa",
     name: "Dronaa",
     type: "Full Stack · EdTech",
+    url: "https://drona-omega.vercel.app/",
     summary:
       "Production mock-test platform for 200+ active users — MERN stack, OTP auth, anti-cheat integrity, and CI/CD across Vercel, Render, and AWS EC2.",
     details: [
@@ -128,7 +129,7 @@ export const projects = [
     id: "samadhan",
     name: "Samadhan",
     type: "AI · Full Stack",
-    url: "https://github.com/kishan2613/Samadhan",
+    url: "https://samadhan-b839.vercel.app/",
     summary:
       "AI-powered legal mediation platform with a multilingual voice chatbot — built for 500+ users in low-literacy contexts.",
     details: [
@@ -142,6 +143,7 @@ export const projects = [
     id: "cliptray",
     name: "ClipTray",
     type: "Systems · Desktop",
+    url: "https://drive.google.com/file/d/1TMHUv8BitNnpghnK6U4qy40Lhv9S5WKH/view",
     summary:
       "Cross-platform clipboard manager in Rust + Tauri — history, real-time search, and sync with predictable immutable state.",
     details: [

@@ -175,6 +175,8 @@ function App() {
             alt={`${profile.name} portrait`}
             caption={`${profile.name.split(" ")[0]} · Full Stack · AI/ML`}
           />
+
+
         </section>
 
         <div className="impact-band" aria-label="Key highlights">
@@ -414,7 +416,7 @@ function App() {
                   >
                     {selected.url.includes("github")
                       ? "View on GitHub"
-                      : "Visit live site"}
+                      : "Link"}
                   </a>
                 )}
               </motion.article>
